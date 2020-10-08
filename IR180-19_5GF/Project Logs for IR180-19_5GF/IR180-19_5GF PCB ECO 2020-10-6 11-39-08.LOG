@@ -1,0 +1,71 @@
+Added Component: Designator=D1(IRLED2835M)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D2(IRLED2835M)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D3(IRLED2835M)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D4(IRLED2835M)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D5(IRLED2835M)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D6(IRLED2835M)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D7(IRLED2835M)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D8(IRLED2835M)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D9(IRLED2835M)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D10(IRLED2835M)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D11(IRLED2835M)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D12(IRLED2835M)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D13(IRLED2835M)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D14(IRLED2835M)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=VCC Pin=D1-1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=D2-1
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD2_2 Pin=D3-1
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=NetD3_2 Pin=D4-1
+Added Pin To Net: NetName=NetD4_2 Pin=D4-2
+Added Pin To Net: NetName=NetD4_2 Pin=D5-1
+Added Pin To Net: NetName=NetD5_2 Pin=D5-2
+Added Pin To Net: NetName=NetD5_2 Pin=D6-1
+Added Pin To Net: NetName=NetD6_2 Pin=D6-2
+Added Pin To Net: NetName=NetD6_2 Pin=D7-1
+Added Pin To Net: NetName=NetD7_2 Pin=D7-2
+Added Pin To Net: NetName=NetD7_2 Pin=D8-1
+Added Pin To Net: NetName=NetD8_2 Pin=D8-2
+Added Pin To Net: NetName=NetD8_2 Pin=D9-1
+Added Pin To Net: NetName=NetD9_2 Pin=D9-2
+Added Pin To Net: NetName=NetD9_2 Pin=D10-1
+Added Pin To Net: NetName=NetD10_2 Pin=D10-2
+Added Pin To Net: NetName=NetD10_2 Pin=D11-1
+Added Pin To Net: NetName=NetD11_2 Pin=D11-2
+Added Pin To Net: NetName=NetD11_2 Pin=D12-1
+Added Pin To Net: NetName=NetD12_2 Pin=D12-2
+Added Pin To Net: NetName=NetD12_2 Pin=D13-1
+Added Pin To Net: NetName=NetD13_2 Pin=D13-2
+Added Pin To Net: NetName=NetD13_2 Pin=D14-1
+Added Pin To Net: NetName=GND Pin=D14-2
+Added Member To Class: ClassName=IR180-19_5GF Member=Component D1 LED1206
+Added Member To Class: ClassName=IR180-19_5GF Member=Component D2 LED1206
+Added Member To Class: ClassName=IR180-19_5GF Member=Component D3 LED1206
+Added Member To Class: ClassName=IR180-19_5GF Member=Component D4 LED1206
+Added Member To Class: ClassName=IR180-19_5GF Member=Component D5 LED1206
+Added Member To Class: ClassName=IR180-19_5GF Member=Component D6 LED1206
+Added Member To Class: ClassName=IR180-19_5GF Member=Component D7 LED1206
+Added Member To Class: ClassName=IR180-19_5GF Member=Component D8 LED1206
+Added Member To Class: ClassName=IR180-19_5GF Member=Component D9 LED1206
+Added Member To Class: ClassName=IR180-19_5GF Member=Component D10 LED1206
+Added Member To Class: ClassName=IR180-19_5GF Member=Component D11 LED1206
+Added Member To Class: ClassName=IR180-19_5GF Member=Component D12 LED1206
+Added Member To Class: ClassName=IR180-19_5GF Member=Component D13 LED1206
+Added Member To Class: ClassName=IR180-19_5GF Member=Component D14 LED1206
+Added Room: Name=IR180-19_5GF
